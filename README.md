@@ -1,8 +1,8 @@
-# WhizzChat - Messaging App
+# WhizzChat - RealTime Messaging App
 
 ## Project Overview
 
-WhizzChat is a real-time messaging platform designed for interactive and seamless communication. Built with robust authentication, the platform ensures secure user interactions. Users can enjoy features like online/offline status visibility of users and real-time messaging using Socket.IO. Styled with React and Tailwind CSS for modern messaging experience. Its modular codebase ensures scalability and maintainability, making WhizzChat ideal for fast, secure, and interactive messaging needs.
+WhizzChat is a real-time messaging platform designed for interactive and seamless communication. Built with robust authentication, the platform ensures secure user interactions. Users can enjoy features like online/offline status visibility of users and real-time messaging using Socket.IO. Styled with React and Tailwind CSS for a modern messaging experience. Its modular codebase ensures scalability and maintainability, making WhizzChat ideal for fast, secure, and interactive messaging needs.
 
 ## Key Features and Technologies Used
 
