@@ -4,7 +4,7 @@
 
 WhizzChat is a real-time messaging platform designed for interactive and seamless communication. Built with robust authentication, the platform ensures secure user interactions. Users can enjoy features like online/offline status visibility of users and real-time messaging using Socket.IO. Styled with React and Tailwind CSS for a modern messaging experience. Its modular codebase ensures scalability and maintainability, making WhizzChat ideal for fast, secure, and interactive messaging needs.
 
-## Key Features and Technologies Used
+## Key Features and Technologies
 
 - **MERN Stack Architecture:** Developed using the MERN stack(MongoDB, Express, React, Node.js), WhizzChat integrates React for a dynamic, responsive front-end, Express for robust server-side logic, Efficient data flow is maintained between the front-end and back-end, with MongoDB ensuring reliable data storage and streamlined management.
 
